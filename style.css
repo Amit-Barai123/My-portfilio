@@ -1,5 +1,4 @@
 /* GENERAL */
-
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
 
 /* Default Light Mode */
@@ -359,7 +358,7 @@ section {
 
 .section-container {
   gap: 4rem;
-  height: 80%;
+  height: auto;
 }
 
 .section__pic-container {
@@ -484,3 +483,4 @@ footer {
 footer p {
   text-align: center;
 }
+
