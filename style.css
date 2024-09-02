@@ -255,6 +255,7 @@ section {
 }
 #about-pic2 {
   border-radius: 5% !important;
+  height:inherit;
 }
 /* ICONS */
 
