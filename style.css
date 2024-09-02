@@ -253,7 +253,7 @@ section {
   margin-top: 1rem;
   gap: 1rem;
 }
-.about-pic2 {
+#about-pic2 {
   border-radius: 1% !important;
 }
 /* ICONS */
