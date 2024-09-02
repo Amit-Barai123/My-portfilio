@@ -335,7 +335,7 @@ section {
   display: flex;
 }
 
-.about-pic {
+#about-pic {
   border-radius: 2rem;
 
 }
